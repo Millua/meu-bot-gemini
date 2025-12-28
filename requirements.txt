@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 python-telegram-bot==20.7
 google-generativeai
+=======
+python-telegram-bot
+google-genai
+>>>>>>> ba6a896f1d1829f26ed93477f53622b7057bec37
 python-dotenv
